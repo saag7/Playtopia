@@ -1,13 +1,12 @@
 # Playtopia : Just the name i deceided to give the project
-![]()
+
 #### This a program in python that moves object using NLP
 
 ```
-Text Commands :
-“move left”: The character moves left.
-“move right”: The character moves right.
-“jump” : The character jumps.
-“change color”: The character changes color.
+In this github repository, you'll get:
+A working python demo named Playtopia.py
+A video of 26 seconds of how the app works
+A docx file that explains the NLP part briefly
 
 ```
 

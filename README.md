@@ -4,7 +4,7 @@
 
 ```
 In this github repository, you'll get:
-A working python demo named Playtopia.py
+A working python demo named playtopia.py
 A video of 26 seconds of how the app works
 A docx file that explains the NLP part briefly
 

@@ -15,5 +15,5 @@ A docx file that explains the NLP part briefly
 ```
 Pycharm Community Edition
 Upload the requirements.txt file and install the librairies
-Run the Playtopia.py file
+Run the playtopia.py file
 ```
